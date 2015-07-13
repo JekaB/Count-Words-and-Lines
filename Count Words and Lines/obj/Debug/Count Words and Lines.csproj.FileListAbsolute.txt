@@ -1,0 +1,6 @@
+c:\users\jeka\documents\visual studio 2013\Projects\Count Words and Lines\Count Words and Lines\bin\Debug\Count Words and Lines.exe.config
+c:\users\jeka\documents\visual studio 2013\Projects\Count Words and Lines\Count Words and Lines\bin\Debug\Count Words and Lines.exe
+c:\users\jeka\documents\visual studio 2013\Projects\Count Words and Lines\Count Words and Lines\bin\Debug\Count Words and Lines.pdb
+c:\users\jeka\documents\visual studio 2013\Projects\Count Words and Lines\Count Words and Lines\obj\Debug\Count Words and Lines.csprojResolveAssemblyReference.cache
+c:\users\jeka\documents\visual studio 2013\Projects\Count Words and Lines\Count Words and Lines\obj\Debug\Count Words and Lines.exe
+c:\users\jeka\documents\visual studio 2013\Projects\Count Words and Lines\Count Words and Lines\obj\Debug\Count Words and Lines.pdb
